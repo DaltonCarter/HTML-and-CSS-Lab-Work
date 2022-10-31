@@ -67,3 +67,15 @@ td {
     font-size: 36px;
     margin-left: 20vw;
 }
+
+#title {
+    background-color: aqua;
+    margin-right: 35vw;
+    border: solid 5px black;
+    border-radius: 10%;
+}
+
+img:hover {
+    opacity: 0;
+    transition: 3s;
+}
